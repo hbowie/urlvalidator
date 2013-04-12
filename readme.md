@@ -6,7 +6,7 @@ urlvalidator is a [PowerSurge Publishing](http://www.powersurgepub.com) package 
 Source
 ------
 
-Source code for PSUtils is available at
+Source code for urlvalidator is available at
 
 	https://github.com/hbowie/urlvalidator
 	
